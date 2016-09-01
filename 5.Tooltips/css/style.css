@@ -1,0 +1,35 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400);
+
+body {
+font: normal normal 13px/16px "Open Sans", sans-serif;
+background: #ccc;
+}
+
+p {
+    display: block ;
+    width:  900px;
+    padding-left: 300px;
+    padding-top: 100px;
+}
+
+.tooltip{
+    text-decoration: underline;
+    color: darkblue;
+    position: relative;
+    display: inline-block;
+}
+
+.tooltipText{
+    position: absolute;
+    top:100%;
+    width: auto;
+    display: block;
+    color: #FFFFFF;
+    background: #000000;
+    height: auto;
+    line-height: 30px;
+    border: solid black 1px;
+    border-radius: 6px;
+    text-align: center;
+    z-index: 1;
+}
