@@ -1,6 +1,6 @@
 ##  Live Demo
 
-http://www.dnamyslak/_projects/todo/
+<a href="http://www.dnamyslak/_projects/todo/" target="_blank">Live Demo Link</a>
 
 
 # JavaScript - Ćwiczenia - Slider
