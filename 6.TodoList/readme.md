@@ -1,3 +1,8 @@
+##  Live Demo
+
+http://www.dnamyslak/_projects/todo/
+
+
 # JavaScript - Ćwiczenia - Slider
 
 Zadanie będzie polagało na napisaniu listy zadań do zrobienia. Strona ma spełniać następujące założenia:
